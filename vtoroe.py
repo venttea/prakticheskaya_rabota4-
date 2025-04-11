@@ -12,7 +12,6 @@ class Employee:
         else:
             return 0.15
 
-# Пример использования
 employee1 = Employee("Алиса", "Разработчик", 3)
 employee2 = Employee("Петр", "Управляющий", 7)
 employee3 = Employee("Мария", "Директор", 12)
